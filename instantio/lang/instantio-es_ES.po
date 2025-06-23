@@ -1,0 +1,2001 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-06 16:29+0600\n"
+"PO-Revision-Date: 2025-04-09 10:17+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:226 includes/controller/class-promo-notice.php:247
+msgid " "
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:817
+msgid " Default 620px"
+msgstr ""
+
+#: includes/controller/Admin.php:103
+#, php-format
+msgid ""
+" Hey %1$s 👋, You have been using %2$s for quite a while. If you feel %2$s is "
+"helping your business to grow in any way, would you please help %2$s to grow "
+"by simply leaving a 5* review on the WordPress Forum?"
+msgstr ""
+
+#: includes/controller/Admin.php:112
+msgid " Ok, you deserve it!"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:877
+#, fuzzy
+msgid "\"Proceed to Checkout\", \"Back to Cart\" button border color"
+msgstr "Color del borde del botón \"Proceder al pago\", \"Volver al carrito\""
+
+#: admin/tf-options/options/tf-settings.php:864
+#, fuzzy
+msgid "\"Proceed to Checkout\", \"Back to Cart\" button color"
+msgstr "Color del botón \"Proceder al pago\", \"Volver al carrito\""
+
+#: admin/tf-options/options/tf-settings.php:890
+#, fuzzy
+msgid "\"Proceed to Checkout\", \"Back to Cart\" button text color"
+msgstr ""
+"Color de texto del botón \"Continuar con el pago\", \"Volver al carrito\""
+
+#: includes/controller/Admin.php:234
+#, fuzzy, php-format
+#| msgid ""
+#| "%sInstantio is inactive.%s This plugin requires WooCommerce 2.5 or newer. "
+#| "Please %supdate WooCommerce to version 2.5 or newer%s"
+msgid ""
+"%sInstantio is inactive.%s This plugin requires WooCommerce 7.0 or newer. "
+"Please %supdate WooCommerce to version 7.0 or newer%s"
+msgstr ""
+"%s Instantio está inactivo. %s Este plugin requiere WooCommerce 2.5 o "
+"posterior. Por favor, %sactualizar WooCommerce a la versión 2.5 o posterior%s"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:598
+msgid "1. What is WooCommerce One Page Checkout?"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:613
+msgid "2. What is Direct Checkout for WooCommerce?"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:628
+msgid "3. How to install Instantio?"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:643
+msgid "4. Is the Free version fully free or there is a gap?"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:658
+msgid "5. Is the free version supported?"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:673
+msgid "5. Will I be able to edit WooCommerce checkout page with Instantio?"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:688
+msgid "6. Does Instantio allows WooCommerce one-click checkout?"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:703
+msgid "7. Will I be able to skip cart page on WooCommerce?"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:718
+msgid "8. Does Instantio allows WooCommerce Quick checkout?"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:733
+msgid "9. Does Instantio allows WooCommerce Express checkout?"
+msgstr ""
+
+#: includes/controller/Admin.php:164
+msgid ""
+"<p> We have noticed a discrepancy between the version of your Pro plugin and "
+"the free plugin. We kindly request that you update your Pro plugin to ensure "
+"compatibility and optimal performance. Thank you for your attention to this "
+"matter.</p>"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:572
+msgid ""
+"A dedicated mobile layout for smaller devices to make your checkout process "
+"much smoother for customers."
+msgstr ""
+
+#: includes/controller/Admin.php:223
+msgid "Activate"
+msgstr "Activar"
+
+#: admin/tf-options/options/tf-settings.php:1331
+#: admin/tf-options/options/tf-settings.php:1388
+msgid "Active Pro Plugin to use this features"
+msgstr ""
+
+#: includes/controller/checkout_editor.php:843
+#: includes/controller/checkout_editor.php:862
+msgid ""
+"All data entered in the edit field will be erased and reset to the default "
+"position.<br><b style='color: red;'>Be aware! You will lose your old data!"
+"</b>"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:752
+msgid "All updates"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:308
+msgid "As part of our overall support strategy to provide the best experience."
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:351
+#: admin/tf-options/options/tf-settings.php:214
+#, fuzzy
+msgid "Auto Open Toggle Panel"
+msgstr "Panel de alternancia abierto automáticamente"
+
+#: includes/controller/class-setup-wizard.php:595
+msgid "Back to Dashboard"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:73
+msgid "Back to dashboard"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:376
+msgid "Basic Tutorials"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1017
+#, fuzzy
+msgid "Billing Section"
+msgstr "Sección de facturación"
+
+#: admin/tf-options/options/tf-settings.php:735
+msgid "Border Color"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:114
+#: admin/tf-options/options/tf-settings.php:267
+#: admin/tf-options/options/tf-settings.php:902
+msgid "Cart"
+msgstr "Carrito"
+
+#: includes/controller/class-setup-wizard.php:301
+#: admin/tf-options/options/tf-settings.php:119
+msgid "Cart & Checkout"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:445
+#: includes/controller/class-setup-wizard.php:446
+msgid "Cart 1"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:453
+#: includes/controller/class-setup-wizard.php:454
+msgid "Cart 2"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:461
+#: includes/controller/class-setup-wizard.php:462
+msgid "Cart 3"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:469
+#: includes/controller/class-setup-wizard.php:470
+msgid "Cart 4"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:274
+msgid "Cart Button"
+msgstr "Botón del carrito"
+
+#: admin/tf-options/options/tf-settings.php:986
+#, fuzzy
+msgid "Cart Button Background Colors"
+msgstr "Colores de fondo del botón del carrito"
+
+#: admin/tf-options/options/tf-settings.php:289
+msgid "Cart Button Text"
+msgstr "Texto del botón Carrito"
+
+#: admin/tf-options/options/tf-settings.php:999
+#, fuzzy
+msgid "Cart Button Text Colors"
+msgstr "Colores de texto del botón del carrito"
+
+#: admin/tf-options/options/tf-settings.php:298
+#, fuzzy
+msgid "Cart Button URL"
+msgstr "URL del botón del carrito"
+
+#: includes/controller/class-setup-wizard.php:504
+#: admin/tf-options/options/tf-settings.php:233
+#: admin/tf-options/options/tf-settings.php:239
+#, fuzzy
+msgid "Cart Fly Animation"
+msgstr "Animación de mosca del carrito"
+
+#: admin/tf-options/options/tf-settings.php:249
+#, fuzzy
+msgid "Cart Fly Animation Icon"
+msgstr "Icono de animación de mosca del carrito"
+
+#: admin/tf-options/options/tf-settings.php:914
+#, fuzzy
+msgid "Cart Header Background"
+msgstr "Fondo del encabezado del carrito"
+
+#: admin/tf-options/options/tf-settings.php:922
+msgid "Cart Header Text Color"
+msgstr "Color del texto del encabezado del carro"
+
+#: admin/tf-options/options/tf-settings.php:480
+#: admin/tf-options/options/tf-settings.php:545
+msgid "Cart Icon"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:601
+msgid "Cart Icon Background Colors"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:615
+msgid "Cart Icon Border Colors"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:629
+msgid "Cart Icon Color"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:578
+msgid "Cart Icon Size"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:438
+#: admin/tf-options/options/tf-settings.php:505
+msgid "Cart Icon Style"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:953
+#, fuzzy
+msgid "Cart Input Background"
+msgstr "Fondo de entrada del carrito"
+
+#: admin/tf-options/options/tf-settings.php:961
+#, fuzzy
+msgid "Cart Input Text Color"
+msgstr "Color del texto de entrada del carrito"
+
+#: admin/tf-options/options/tf-settings.php:945
+#, fuzzy
+msgid "Cart Item Text Color"
+msgstr "Color del texto del artículo del carrito"
+
+#: admin/tf-options/options/tf-settings.php:937
+#, fuzzy
+msgid "Cart Items Background"
+msgstr "Fondo de los artículos del carrito"
+
+#: admin/tf-options/options/tf-settings.php:930
+msgid "Cart Items Wrapper Background"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:674
+msgid "Cart Panel"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:849
+#, fuzzy
+#| msgid "Toggle Panel Background Color"
+msgid "Cart Panel Background Color"
+msgstr "Alternar el color de fondo del panel"
+
+#: admin/tf-options/options/tf-settings.php:842
+msgid "Cart Panel Colors"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:689
+msgid "Cart Panel Design"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:717
+msgid "Cart Panel Theme Color"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:815
+#, fuzzy
+#| msgid "Toggle Panel Width (1024px-1199px)"
+msgid "Cart Panel Width (1024px-1199px)"
+msgstr "Alternar ancho del panel (1024px-1199px)"
+
+#: admin/tf-options/options/tf-settings.php:801
+#, fuzzy
+#| msgid "Toggle Panel Width (1200px-auto)"
+msgid "Cart Panel Width (1200px-auto)"
+msgstr "Alternar ancho del panel (1200px-auto)"
+
+#: admin/tf-options/options/tf-settings.php:829
+#, fuzzy
+#| msgid "Toggle Panel Width (501px-1023)"
+msgid "Cart Panel Width (501px-1023)"
+msgstr "Alternar ancho del panel (501px-1023)"
+
+#: admin/tf-options/options/tf-settings.php:969
+#, fuzzy
+msgid "Cart Pricing Table Background"
+msgstr "Fondo de la tabla de precios del carrito"
+
+#: admin/tf-options/options/tf-settings.php:977
+#, fuzzy
+msgid "Cart Pricing Table Text Color"
+msgstr "Color de texto de la tabla de precios del carrito"
+
+#: admin/tf-options/options/tf-settings.php:1453
+#, fuzzy
+msgid "Cart Section"
+msgstr "Sección de carrito"
+
+#: admin/tf-options/options/tf-settings.php:907
+msgid "Cart Section Colors"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:656
+msgid "Cart Total Item Background"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:643
+msgid "Cart Total Item Color"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:587
+msgid "Cart Total Item Size"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:563
+msgid "Changes position of the Cart Icon"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1012
+msgid "Checkout"
+msgstr "Pagar"
+
+#: admin/tf-options/options/tf-settings.php:1286
+msgid "Checkout Billing Form"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:310
+msgid "Checkout Button"
+msgstr "Botón de pago"
+
+#: admin/tf-options/options/tf-settings.php:327
+msgid "Checkout Button Text"
+msgstr "Texto del botón de Checkout"
+
+#: admin/tf-options/options/tf-settings.php:334
+#, fuzzy
+msgid "Checkout Button URL"
+msgstr "URL del botón de pago"
+
+#: admin/tf-options/options/tf-settings.php:1278
+msgid "Checkout Editor"
+msgstr ""
+
+#: includes/controller/App.php:293
+msgid "Checkout Now"
+msgstr "Comprar ahora"
+
+#: admin/tf-options/options/tf-settings.php:1347
+msgid "Checkout Shipping Form"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:140
+#: admin/tf-options/options/tf-settings.php:53
+msgid "Choose cart options"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:194
+msgid "Choose Icon design "
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:109
+msgid "Choose layout"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:480
+#: admin/tf-options/options/tf-settings.php:142
+msgid "Choose layout Animation"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:78
+msgid "Choose mode"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:271
+msgid ""
+"Click the button below to run the setup wizard of Instantio. Your existing "
+"settings will be change."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:456
+msgid "Code: <code>[instantio-cart-icon]</code>"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:311
+msgid "Contact Us"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:789
+#, fuzzy
+msgid ""
+"Control z-index from this option. More about <a target=\"_blank\" "
+"href=\"https://css-tricks.com/almanac/properties/z/z-index/\">z-index</a>"
+msgstr ""
+"Controle el índice z desde esta opción. Más información sobre <a "
+"target=\"_blank\" href=\"https://css-tricks.com/almanac/properties/z/z-"
+"index/\">el índice z</a>"
+
+#: admin/tf-options/options/tf-settings.php:1330
+#: admin/tf-options/options/tf-settings.php:1387
+msgid "Create new fields"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:422
+#, fuzzy
+msgid "Cross Sell Heading"
+msgstr "Encabezado de venta cruzada"
+
+#: admin/tf-options/options/tf-settings.php:409
+#, fuzzy
+msgid "Cross Sells in Checkout"
+msgstr "Ventas cruzadas en el proceso de pago"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:551
+msgid "Cross-sell (Pro)"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1262
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:498
+msgid ""
+"Customer will checkout from Same Window (Popup). The checkout process will "
+"be Multi-step (Cart -> Checkout)"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:460
+msgid ""
+"Customer will checkout from Same Window (Side drawer). The checkout process "
+"will be Multi-step (Cart -> Checkout, No Reload)."
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:187
+#: admin/tf-options/options/tf-settings.php:88
+msgid "Dark"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:186
+msgid "dark"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:121
+#: admin/tf-options/classes/Ins_TF_Settings.php:122
+msgid "Dashboard"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:569
+msgid "Dedicated Mobile Layout"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1442
+#, fuzzy
+msgid "Dedicated Mobile Version"
+msgstr "Versión móvil dedicada"
+
+#: admin/tf-options/options/tf-settings.php:831
+msgid ""
+"Default 400 <br/> <br/> Width is 100% for devices which dimension up to "
+"500px."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:803
+msgid "Default 690px"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:490
+msgid "Default Animation"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:589
+#, fuzzy
+msgid "Default: 14px"
+msgstr "Valor predeterminado: 14px"
+
+#: admin/tf-options/options/tf-settings.php:580
+msgid "Default: 26"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:581
+#, fuzzy
+msgid "Default: 26px"
+msgstr "Valor predeterminado: 26px"
+
+#: admin/tf-options/options/tf-settings.php:328
+#, fuzzy
+#| msgid "Default: <code>Checkout Now</code>"
+msgid "Default: <code>Checkout</code>"
+msgstr "Predeterminado: <code>Checkout Now</code>"
+
+#: admin/tf-options/options/tf-settings.php:291
+#, fuzzy
+msgid "Default: <code>View Cart</code>"
+msgstr "Predeterminado: <code>View Cart</code>"
+
+#: admin/tf-options/options/tf-settings.php:300
+#, fuzzy
+#| msgid "Default: default cart page"
+msgid "Default: Default cart page"
+msgstr "Valor predeterminado: página de carrito predeterminada"
+
+#: admin/tf-options/options/tf-settings.php:336
+#, fuzzy
+#| msgid "Default: default checkout page"
+msgid "Default: Default Checkout page"
+msgstr "Valor predeterminado: página de pago predeterminada"
+
+#: admin/tf-options/options/tf-settings.php:400
+#, fuzzy
+msgid "Default: Hang on! We have this offer just for you!"
+msgstr "Valor predeterminado: ¡Espera! ¡Tenemos esta oferta solo para ti!"
+
+#: admin/tf-options/options/tf-settings.php:424
+#, fuzzy
+msgid "Default: You may be interested in…"
+msgstr "Por defecto: Te puede interesar..."
+
+#: admin/tf-options/options/tf-settings.php:474
+msgid "Design"
+msgstr "Diseño"
+
+#: includes/controller/class-setup-wizard.php:147
+#, fuzzy
+#| msgid "View Checkout"
+msgid "Direct Checkout"
+msgstr "Ver pago"
+
+#: includes/controller/class-setup-wizard.php:146
+msgid "Direct-Checkout"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:726
+msgid "Disable"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:386
+#: admin/tf-options/options/tf-settings.php:374
+#, fuzzy
+msgid "Disable Ajax Add to Cart"
+msgstr "Deshabilitar Ajax Agregar al carrito"
+
+#: admin/tf-options/options/tf-settings.php:346
+#: admin/tf-options/options/tf-settings.php:347
+msgid "Disable Instantio"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:369
+#: admin/tf-options/options/tf-settings.php:362
+msgid "Disable Quick View"
+msgstr "Desactivar vista rápida"
+
+#: admin/tf-options/options/tf-settings.php:132
+#: admin/tf-options/options/tf-settings.php:216
+#: admin/tf-options/options/tf-settings.php:241
+#: admin/tf-options/options/tf-settings.php:388
+#: admin/tf-options/options/tf-settings.php:412
+#: admin/tf-options/options/tf-settings.php:1445
+#: admin/tf-options/options/tf-settings.php:1496
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: functions.php:179
+msgid "Dismiss this notice."
+msgstr ""
+
+#: functions.php:24 admin/tf-options/classes/Ins_TF_Settings.php:201
+#: admin/tf-options/classes/Ins_TF_Settings.php:290
+msgid "Documentation"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:281
+#, fuzzy
+#| msgid "Show Cart Button"
+msgid "Edit Cart Button"
+msgstr "Mostrar el botón del carrito"
+
+#: admin/tf-options/options/tf-settings.php:317
+#, fuzzy
+#| msgid "Direct Checkout Button"
+msgid "Edit Checkout Button"
+msgstr "Botón de pago directo"
+
+#: admin/tf-options/options/tf-settings.php:1403
+msgid "Edit Option For Order Notes Field"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:305
+msgid "Email Support"
+msgstr ""
+
+#: includes/templates/cart-modern.php:231
+#: includes/templates/ins_single_step_cart.php:234
+msgid "Empty Cart"
+msgstr "Vaciar carrito"
+
+#: admin/tf-options/options/tf-settings.php:725
+msgid "Enable"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1460
+#, fuzzy
+msgid "Enable Cart Panel"
+msgstr "Habilitar panel carrito"
+
+#: admin/tf-options/options/tf-settings.php:723
+msgid "Enable Cart Panel Border"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1461
+#, fuzzy
+#| msgid "Enable/disable cart in mobile version"
+msgid "Enable/disable Bottom cart in mobile version"
+msgstr "Habilitar/deshabilitar el carrito en la versión móvil"
+
+#: admin/tf-options/options/tf-settings.php:410
+#, fuzzy
+msgid "Enable/disable cross sell items in checkout"
+msgstr "Activar/desactivar artículos de venta cruzada en el proceso de pago"
+
+#: admin/tf-options/options/tf-settings.php:1443
+#, fuzzy
+msgid "Enable/disable dedicated mobile version"
+msgstr "Habilitar/deshabilitar la versión móvil dedicada"
+
+#: admin/tf-options/options/tf-settings.php:1494
+#, fuzzy
+msgid "Enable/disable Instantio JS minification"
+msgstr "Activar/desactivar la minificación de Instantio JS"
+
+#: admin/tf-options/options/tf-settings.php:449
+msgid "Enable/Disable Mini cart option"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:386
+#, fuzzy
+msgid "Enable/disable upsells items in cart"
+msgstr "Habilitar/deshabilitar artículos de ventas adicionales en el carrito"
+
+#: admin/tf-options/options/tf-settings.php:234
+#, fuzzy
+msgid "Enable/dsiable cart fly animation or change icon"
+msgstr "Habilitar/dsiable carrito de animación de mosca o cambiar icono"
+
+#: admin/tf-options/options/tf-settings.php:131
+#: admin/tf-options/options/tf-settings.php:215
+#: admin/tf-options/options/tf-settings.php:240
+#: admin/tf-options/options/tf-settings.php:387
+#: admin/tf-options/options/tf-settings.php:411
+#: admin/tf-options/options/tf-settings.php:1444
+#: admin/tf-options/options/tf-settings.php:1495
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: admin/tf-options/options/tf-settings.php:130
+msgid "Enabled single step"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:494
+msgid "Fade In Animate"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:250
+msgid "FAQs"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:212
+msgid "Feature Request"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1292
+#: admin/tf-options/options/tf-settings.php:1353
+msgid "Field Name"
+msgstr ""
+
+#: admin/tf-options/Ins_TF_Options.php:296
+msgid "Field not found!"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1304
+#: admin/tf-options/options/tf-settings.php:1364
+msgid "Field origin"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1297
+#: admin/tf-options/options/tf-settings.php:1358
+msgid "Field Placeholder"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1311
+#: admin/tf-options/options/tf-settings.php:1376
+msgid "Field Status"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:563
+msgid "Finish"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:588
+msgid "Frequently asked questions"
+msgstr ""
+
+#: admin/tf-options/fields/date/INS_date.php:18
+msgid "From"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:235
+#: admin/tf-options/options/tf-settings.php:32
+#: admin/tf-options/options/tf-settings.php:684
+msgid "General"
+msgstr "General"
+
+#: functions.php:29 includes/controller/class-setup-wizard.php:76
+msgid "Get help"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:116
+msgid "Get Started"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:195
+msgid "Glass Morphism"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:93
+msgid "Glass morphism"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:194
+msgid "GlassMorphism"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:497
+msgid "Global Settings for Instantio Cart icon"
+msgstr ""
+
+#: includes/controller/Admin.php:284
+msgid "GO PRO"
+msgstr "HAZTE PRO"
+
+#: includes/controller/class-setup-wizard.php:203
+#: admin/tf-options/options/tf-settings.php:97
+msgid "Gradient"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:202
+msgid "gradient"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:401
+#, fuzzy
+msgid "Hang on! We have this offer just for you!"
+msgstr "¡Espera! ¡Tenemos esta oferta solo para ti!"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:360
+msgid "Have any thoughts or feature request?"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:76
+msgid "Having troubles?"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:520
+msgid "Hide Cart Button when No Cart Item"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:224
+#, fuzzy
+#| msgid "Hide Toggler when No Cart Item"
+msgid "Hide Toggle when No Cart Item"
+msgstr "Ocultar el interruptor cuando no hay artículo del carrito"
+
+#: includes/controller/class-setup-wizard.php:581
+msgid "Hooray! You’re all set"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:608
+#: admin/tf-options/options/tf-settings.php:622
+#: admin/tf-options/options/tf-settings.php:636
+#: admin/tf-options/options/tf-settings.php:649
+#: admin/tf-options/options/tf-settings.php:662
+#: admin/tf-options/options/tf-settings.php:869
+#: admin/tf-options/options/tf-settings.php:882
+#: admin/tf-options/options/tf-settings.php:895
+#: admin/tf-options/options/tf-settings.php:990
+#: admin/tf-options/options/tf-settings.php:1003
+#: admin/tf-options/options/tf-settings.php:1160
+#: admin/tf-options/options/tf-settings.php:1174
+#: admin/tf-options/options/tf-settings.php:1188
+msgid "Hover"
+msgstr "Hover"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:293
+msgid "How the plugin works, what it can do, and how to use it."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:414
+msgid "How to Install / Update Instantio"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:398
+msgid "How to setup a Fast WooCommerce Checkout"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themefic.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themefic.com/instantio/"
+msgstr ""
+
+#: includes/controller/Admin.php:115
+msgid "I already did"
+msgstr ""
+
+#: includes/controller/Admin.php:122
+msgid "I need help"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:314
+#: admin/tf-options/options/tf-settings.php:562
+msgid "Icon Position"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:555
+msgid "If Custom Image as Toggler Icon it's then it will work"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1263
+#, fuzzy
+msgid "If you want to make extra CSS then you can do it from here"
+msgstr "Si quieres hacer CSS extra entonces puedes hacerlo desde aquí"
+
+#: includes/controller/Admin.php:209
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:431
+msgid "Instant Checkout for WooCommerce"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:22
+#, fuzzy
+msgid "Instantio"
+msgstr "Instantio"
+
+#. Name of the plugin
+msgid "Instantio - WooCommerce Quick Checkout"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:536
+msgid ""
+"Instantio offer Ajax-based Upsell feature with which you can sell related or "
+"complementary products to a customer."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1246
+#, fuzzy
+msgid "Instantio Quick View Panel Background Color"
+msgstr "Instantio Quick View Panel Color de fondo"
+
+#: admin/tf-options/options/tf-settings.php:1255
+#, fuzzy
+msgid "Instantio Quick View Panel Text & Cross Color"
+msgstr "Instantio Quick View Panel Texto & Cross Color"
+
+#: includes/controller/Admin.php:205 includes/controller/Admin.php:219
+#, fuzzy, php-format
+msgid "Instantio requires %1$s WooCommerce %2$s to be activated."
+msgstr "Instantio requiere que se active %1$s wooCommerce %2$s."
+
+#: includes/controller/class-setup-wizard.php:593
+msgid "Instantio Settings"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:44
+#: includes/controller/class-setup-wizard.php:45
+msgid "Instantio Setup Wizard"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1411
+msgid "Label"
+msgstr ""
+
+#: admin/tf-options/fields/map/INS_map.php:23
+msgid "Latitude"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:44
+msgid "Layout"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:342
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:338
+msgid "Left Middle"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:334
+msgid "Left Top"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:585
+msgid ""
+"Let's get started with Instantio. With this plugin, you can manage your "
+"store and provide seamless checkout for your customers. Let's streamline "
+"your business operations today."
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:179
+#: admin/tf-options/options/tf-settings.php:83
+#, fuzzy
+#| msgid "Right"
+msgid "Light"
+msgstr "Derecha"
+
+#: includes/controller/class-setup-wizard.php:178
+msgid "light"
+msgstr ""
+
+#: admin/tf-options/fields/map/INS_map.php:24
+msgid "Longitude"
+msgstr ""
+
+#: includes/controller/Admin.php:118
+#, fuzzy
+#| msgid "Maybe later"
+msgid "Maybe Later"
+msgstr "Quizás más tarde"
+
+#: admin/tf-options/options/tf-settings.php:433
+msgid "Mini Cart"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:440
+msgid "Mini Cart Option"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:446
+msgid "Mini Cart ShortCode"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:455
+msgid "Mini cart shot-code"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1493
+msgid "Minify JS"
+msgstr "Minimizar JS"
+
+#: admin/tf-options/options/tf-settings.php:1435
+msgid "Mobile"
+msgstr "Móvil"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:191
+msgid "Need Help?"
+msgstr ""
+
+#: includes/controller/Admin.php:125
+msgid "Never show again"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:258
+#: includes/controller/class-setup-wizard.php:405
+msgid "Next"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:226
+#: admin/tf-options/options/tf-settings.php:283
+#: admin/tf-options/options/tf-settings.php:319
+#: admin/tf-options/options/tf-settings.php:366
+#: admin/tf-options/options/tf-settings.php:378
+#: admin/tf-options/options/tf-settings.php:448
+#: admin/tf-options/options/tf-settings.php:464
+#: admin/tf-options/options/tf-settings.php:1463
+msgid "No"
+msgstr "No"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:796
+msgid ""
+"No change logs found. Please try again later. Maybe the changelog is being "
+"updated, it will come shortly."
+msgstr ""
+
+#: admin/tf-options/fields/switch/INS_switch.php:16
+#: admin/tf-options/fields/switch/INS_switch.php:20
+msgid "Off"
+msgstr ""
+
+#: admin/tf-options/fields/switch/INS_switch.php:15
+#: admin/tf-options/fields/switch/INS_switch.php:19
+msgid "On"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:293
+msgid "Only Cart"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:857
+#, fuzzy
+msgid "Openning heading \"Your Cart\" color"
+msgstr "Abrir el color del encabezado \"Su carrito\""
+
+#: includes/controller/class-setup-wizard.php:541
+#: admin/tf-options/options/tf-settings.php:1473
+msgid "Optimization"
+msgstr "Optimización"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:1007
+msgid "Options saved successfully!"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1402
+msgid "Order Notes"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1236
+msgid "Others"
+msgstr "Otros"
+
+#: includes/controller/class-setup-wizard.php:111
+msgid ""
+"Our quick setup wizard makes getting started a breeze. It's simple, takes "
+"just few second, and helps configure basic settings. Remember, this guide is "
+"optional. Let's begin!"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:588
+msgid "Overrides can be made from Instantio settings."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:848
+#, fuzzy
+msgid "Panel Background"
+msgstr "Antecedentes del panel"
+
+#: admin/tf-options/options/tf-settings.php:1024
+#, fuzzy
+msgid "Panel Billing Background"
+msgstr "Antecedentes de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1033
+#, fuzzy
+msgid "Panel Billing Heading Color"
+msgstr "Color del encabezado de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1052
+#, fuzzy
+msgid "Panel Billing Input Background"
+msgstr "Fondo de entrada de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1061
+#, fuzzy
+msgid "Panel Billing Input Border Color"
+msgstr "Color del borde de entrada de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1079
+#, fuzzy
+msgid "Panel Billing Input Shadow Color"
+msgstr "Color de sombra de entrada de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1070
+#, fuzzy
+msgid "Panel Billing Input Text Color"
+msgstr "Color del texto de entrada de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1042
+#, fuzzy
+msgid "Panel Billing Label Color"
+msgstr "Color de la etiqueta de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:876
+#, fuzzy
+msgid "Panel Button Border Colors"
+msgstr "Colores del borde del botón del panel"
+
+#: admin/tf-options/options/tf-settings.php:863
+#, fuzzy
+msgid "Panel Button Colors"
+msgstr "Colores del botón del panel"
+
+#: admin/tf-options/options/tf-settings.php:889
+#, fuzzy
+msgid "Panel Button Text Colors"
+msgstr "Colores de texto del botón del panel"
+
+#: admin/tf-options/options/tf-settings.php:856
+msgid "Panel Text Color"
+msgstr "Color de panel de texto"
+
+#: admin/tf-options/options/tf-settings.php:788
+#, fuzzy
+msgid "Panel Z-index"
+msgstr "Panel Z-index"
+
+#: admin/tf-options/options/tf-settings.php:1089
+msgid "Payment"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1101
+#, fuzzy
+msgid "Payment Methods Background"
+msgstr "Antecedentes de los métodos de pago"
+
+#: admin/tf-options/options/tf-settings.php:1119
+#, fuzzy
+msgid "Payment Methods Description Background"
+msgstr "Métodos de pago Descripción Antecedentes"
+
+#: admin/tf-options/options/tf-settings.php:1128
+#, fuzzy
+msgid "Payment Methods Description Text Color"
+msgstr "Métodos de pago Descripción Texto Color"
+
+#: admin/tf-options/options/tf-settings.php:1110
+#, fuzzy
+msgid "Payment Methods Text Color"
+msgstr "Métodos de pago Color de texto"
+
+#: admin/tf-options/options/tf-settings.php:1094
+#, fuzzy
+msgid "Payment Section"
+msgstr "Sección de Pagos"
+
+#: admin/tf-options/options/tf-settings.php:1137
+#, fuzzy
+msgid "Place Order Background"
+msgstr "Colocar el fondo del pedido"
+
+#: admin/tf-options/options/tf-settings.php:1156
+msgid "Place Order Button Background"
+msgstr "Fondo del botón para hacer pedidos"
+
+#: admin/tf-options/options/tf-settings.php:1157
+#, fuzzy
+msgid "Place order button background regular & hover color"
+msgstr ""
+"Colocar el fondo del botón de pedido regular y pasar el cursor en color"
+
+#: admin/tf-options/options/tf-settings.php:1170
+#, fuzzy
+msgid "Place Order Button Border Colors"
+msgstr "Colocar colores de borde del botón Ordenar"
+
+#: admin/tf-options/options/tf-settings.php:1171
+#, fuzzy
+msgid "Place order button border regular & hover color"
+msgstr ""
+"Colocar el borde del botón de pedido regular y pasar el cursor por el color"
+
+#: admin/tf-options/options/tf-settings.php:1184
+#, fuzzy
+msgid "Place Order Button Text Colors"
+msgstr "Colocar colores de texto del botón Ordenar"
+
+#: admin/tf-options/options/tf-settings.php:1185
+#, fuzzy
+msgid "Place order button text regular & hover color"
+msgstr "Colocar texto del botón de pedido regular y pasar el color"
+
+#: admin/tf-options/options/tf-settings.php:1146
+#, fuzzy
+msgid "Place Order Text Color"
+msgstr "Colocar el color del texto del pedido"
+
+#: admin/tf-options/options/tf-settings.php:1420
+msgid "Placeholder"
+msgstr ""
+
+#: includes/controller/Admin.php:258
+msgid "Please Updated Now"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:162
+#, fuzzy
+msgid "Popup Cart"
+msgstr "Carrito emergente"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:494
+msgid "Popup Cart + Popup Checkout (Multi Step)"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:514
+msgid "Popup Cart + Popup Checkout (Single Step)"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:161
+msgid "Popup-Cart"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:402
+#: includes/controller/class-setup-wizard.php:560
+msgid "Previous"
+msgstr ""
+
+#: admin/tf-options/Ins_TF_Options.php:272
+#: admin/tf-options/classes/Ins_TF_Settings.php:245
+msgid "Pro"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:442
+#, fuzzy
+#| msgid "Pro Feature"
+msgid "Pro Features"
+msgstr "Función Pro"
+
+#: admin/tf-options/options/tf-settings.php:1245
+#, fuzzy
+msgid "Quick View Background"
+msgstr "Vista rápida Fondo"
+
+#: admin/tf-options/options/tf-settings.php:1254
+msgid "Quick View Color"
+msgstr "Color de Vista Rápida"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:296
+msgid "Read More"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:607
+#: admin/tf-options/options/tf-settings.php:621
+#: admin/tf-options/options/tf-settings.php:635
+#: admin/tf-options/options/tf-settings.php:648
+#: admin/tf-options/options/tf-settings.php:661
+#: admin/tf-options/options/tf-settings.php:868
+#: admin/tf-options/options/tf-settings.php:881
+#: admin/tf-options/options/tf-settings.php:894
+#: admin/tf-options/options/tf-settings.php:989
+#: admin/tf-options/options/tf-settings.php:1002
+#: admin/tf-options/options/tf-settings.php:1159
+#: admin/tf-options/options/tf-settings.php:1173
+#: admin/tf-options/options/tf-settings.php:1187
+msgid "Regular"
+msgstr "Regular"
+
+#: functions.php:34
+msgid "Request a feature"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1319
+#: admin/tf-options/options/tf-settings.php:1369
+msgid "Required Status"
+msgstr ""
+
+#: includes/controller/checkout_editor.php:842
+msgid "Reset Billing Fields"
+msgstr ""
+
+#: includes/controller/checkout_editor.php:846
+#: includes/controller/checkout_editor.php:865
+msgid "Reset Fields"
+msgstr ""
+
+#: includes/controller/checkout_editor.php:861
+msgid "Reset Shipping Fields"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:330
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:326
+msgid "Right Middle"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:322
+msgid "Right Top"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:905
+msgid "Save"
+msgstr ""
+
+#: admin/tf-options/fields/map/INS_map.php:22
+msgid "Search Address..."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:463
+#: admin/tf-options/classes/Ins_TF_Settings.php:482
+#: admin/tf-options/classes/Ins_TF_Settings.php:502
+#: admin/tf-options/classes/Ins_TF_Settings.php:521
+#: admin/tf-options/classes/Ins_TF_Settings.php:539
+#: admin/tf-options/classes/Ins_TF_Settings.php:557
+#: admin/tf-options/classes/Ins_TF_Settings.php:575
+msgid "See Preview"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:633
+msgid ""
+"See the installation link. <a traget='_blank' href='https://wordpress."
+"org/plugins/instantio/#installation'>Install Link</a> "
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:289
+msgid "Select a Cart"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:319
+#: includes/controller/class-setup-wizard.php:486
+msgid "Select a position"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:532
+msgid "Select Cart Icon Option"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:506
+msgid "Select cart icon Style which will appear in cart Icon"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:546
+#, fuzzy
+#| msgid "Select cart icon which will appear in cart toggler"
+msgid "Select cart icon which will appear in cart Icon"
+msgstr ""
+"Seleccione el icono del carrito que aparecerá en el conmutador del carrito"
+
+#: admin/tf-options/fields/date/INS_date.php:20
+#: admin/tf-options/fields/date/INS_date.php:31
+#: admin/tf-options/fields/time/INS_time.php:20
+msgid "Select Date"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:282
+msgid "Select layout Options"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:171
+msgid "Select The Mode"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:216
+msgid "Select The ProgressBar"
+msgstr ""
+
+#: admin/tf-options/fields/time/INS_time.php:16
+msgid "Select Time"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:533
+msgid ""
+"Set custom Icon Choice as icon for the cart instead of the defaults Icon."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:588
+msgid "Set font size & line height of cart total item number"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:602
+#: admin/tf-options/options/tf-settings.php:616
+#: admin/tf-options/options/tf-settings.php:987
+#: admin/tf-options/options/tf-settings.php:1000
+#, fuzzy
+msgid "Set regular & hover color"
+msgstr "Establecer el color regular y flotante"
+
+#: admin/tf-options/options/tf-settings.php:644
+msgid "Set regular & hover color for cart items total number"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:657
+msgid "Set regular & hover color for cart items total number background"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:630
+#, fuzzy
+msgid "Set regular & hover color of text & icon"
+msgstr "Establecer el color regular y flotante del texto y el icono"
+
+#: admin/tf-options/options/tf-settings.php:816
+#, fuzzy
+#| msgid ""
+#| "Set the percent of width of toggle panel for display dimension greater "
+#| "than 1023px."
+msgid ""
+"Set the percent of width of cart panel for display dimension greater than "
+"1023px."
+msgstr ""
+"Establezca el porcentaje de ancho del panel de alternancia para una "
+"dimensión de visualización superior a 1023px."
+
+#: admin/tf-options/options/tf-settings.php:802
+#, fuzzy
+#| msgid ""
+#| "Set the percent of width of toggle panel for display dimension greater "
+#| "than 1199px."
+msgid ""
+"Set the percent of width of cart panel for display dimension greater than "
+"1199px."
+msgstr ""
+"Establezca el porcentaje de ancho del panel de alternancia para una "
+"dimensión de visualización superior a 1199px."
+
+#: admin/tf-options/options/tf-settings.php:830
+#, fuzzy
+#| msgid ""
+#| "Set the percent of width of toggle panel for display dimension greater "
+#| "than 500px."
+msgid ""
+"Set the percent of width of cart panel for display dimension greater than "
+"500px."
+msgstr ""
+"Establezca el porcentaje de ancho del panel de alternancia para una "
+"dimensión de visualización superior a 500px."
+
+#: admin/tf-options/options/tf-settings.php:724
+msgid "Set Toggle Panel Border"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:579
+#, fuzzy
+msgid "Set width of the toggler icon"
+msgstr "Establecer el ancho del icono del conmutador"
+
+#: includes/controller/Admin.php:279
+#: admin/tf-options/classes/Ins_TF_Settings.php:132
+#: admin/tf-options/classes/Ins_TF_Settings.php:133
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:268
+#: admin/tf-options/classes/Ins_TF_Settings.php:275
+msgid "Setup Wizard"
+msgstr ""
+
+#: includes/layouts/layout-2.php:32 includes/layouts/layout-3.php:24
+msgid "Shop Now"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:385
+msgid "Show Upsells Product in Cart"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:275
+#, fuzzy
+msgid "Show/hide or change cart button's text & url"
+msgstr "Mostrar/ocultar o cambiar el texto y la url del botón del carrito"
+
+#: admin/tf-options/options/tf-settings.php:311
+#, fuzzy
+msgid "Show/hide or change checkout button's text & url"
+msgstr "Mostrar/ocultar o cambiar el texto y la url del botón de pago"
+
+#: includes/controller/class-setup-wizard.php:154
+#, fuzzy
+msgid "Side Cart"
+msgstr "Carrito lateral"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:457
+msgid "Side Cart + Side Checkout (Multi Step)"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:475
+msgid "Side Cart + Side Checkout (Single Step)"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:153
+msgid "Side-Cart"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:257
+#: includes/controller/class-setup-wizard.php:404
+#: includes/controller/class-setup-wizard.php:562
+msgid "Skip this step"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:1000
+msgid "Something went wrong!"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:634
+msgid "Step 1"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:646
+msgid "Step 2"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:657
+msgid "Step 3"
+msgstr ""
+
+#: functions.php:39
+msgid "Submit a bug"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:366
+msgid "Submit request"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:578
+msgid "Thank you"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:517
+msgid ""
+"The checkout process will be Single-step Popup (Cart & Checkout on Same "
+"Window, No Page Reload)."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:478
+msgid ""
+"The checkout process will be Single-step. Cart & Checkout will be shown on "
+"the Same Window, No Page Reload."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:349
+msgid ""
+"The Instantio cart functionality will not be visible on this particular page."
+" Note: You won't be able to hide it from the default shop page."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:423
+#, fuzzy
+msgid "The text shown before cross sell items"
+msgstr "El texto que se muestra antes de la venta cruzada de artículos"
+
+#: admin/tf-options/options/tf-settings.php:399
+#, fuzzy
+msgid "The text shown before upsell items"
+msgstr "El texto que se muestra antes de la venta adicional de artículos"
+
+#: admin/tf-options/options/tf-settings.php:718
+msgid "Theme color refers to a primary used throughout instantio"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themefic"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:498
+msgid "These options can be overridden from defualt Settings."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:465
+msgid "This option will turn off the Instantio Cart (floating) button."
+msgstr ""
+
+#: admin/tf-options/fields/date/INS_date.php:19
+#, fuzzy
+#| msgid "Top"
+msgid "To"
+msgstr "Arriba"
+
+#: includes/controller/Admin.php:253
+msgid ""
+"To activate Instantio, it is necessary to have the Instantio Pro version 3 "
+"installed."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:346
+msgid ""
+"To provide amazing experience to your guests and sell more with less effort. "
+"Bonus: You can upgrade to our plans today and save 50% off."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:187
+msgid "Toggle"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1025
+#, fuzzy
+msgid "Toggle panel billing section background color"
+msgstr "Alternar el color de fondo de la sección de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1034
+#, fuzzy
+msgid "Toggle panel billing section heading text color"
+msgstr ""
+"Alternar el color del texto del encabezado de la sección de facturación del "
+"panel"
+
+#: admin/tf-options/options/tf-settings.php:1053
+#, fuzzy
+msgid "Toggle panel billing section input background color"
+msgstr ""
+"Alternar el color de fondo de la entrada de la sección de facturación del "
+"panel"
+
+#: admin/tf-options/options/tf-settings.php:1062
+#, fuzzy
+msgid "Toggle panel billing section input border color"
+msgstr ""
+"Alternar el color del borde de entrada de la sección de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1080
+#, fuzzy
+msgid "Toggle panel billing section input shadow color"
+msgstr ""
+"Alternar el color de sombra de entrada de la sección de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1071
+#, fuzzy
+msgid "Toggle panel billing section input text color"
+msgstr ""
+"Alternar el color del texto de entrada de la sección de facturación del panel"
+
+#: admin/tf-options/options/tf-settings.php:1043
+#, fuzzy
+msgid "Toggle panel billing section label text color"
+msgstr ""
+"Alternar el color del texto de la etiqueta de la sección de facturación del "
+"panel"
+
+#: admin/tf-options/options/tf-settings.php:736
+#, fuzzy
+#| msgid "Toggle Panel Border Colors"
+msgid "Toggle Panel Border Color"
+msgstr "Alternar colores de borde del panel"
+
+#: admin/tf-options/options/tf-settings.php:915
+#, fuzzy
+msgid "Toggle panel cart header background color"
+msgstr "Alternar el color de fondo del encabezado del carrito del panel"
+
+#: admin/tf-options/options/tf-settings.php:923
+#, fuzzy
+msgid "Toggle panel cart header text color"
+msgstr "Alternar el color del texto del encabezado del carrito del panel"
+
+#: admin/tf-options/options/tf-settings.php:954
+#, fuzzy
+msgid "Toggle panel cart input background color"
+msgstr "Alternar el color de fondo de entrada del carrito del panel"
+
+#: admin/tf-options/options/tf-settings.php:962
+#, fuzzy
+msgid "Toggle panel cart input text color"
+msgstr "Alternar el color del texto de entrada del carrito del panel"
+
+#: admin/tf-options/options/tf-settings.php:946
+#, fuzzy
+msgid "Toggle panel cart item text color"
+msgstr "Alternar el color del texto del artículo del carrito del panel"
+
+#: admin/tf-options/options/tf-settings.php:938
+#, fuzzy
+msgid "Toggle panel cart items background color"
+msgstr "Alternar el color de fondo de los artículos del carrito del panel"
+
+#: admin/tf-options/options/tf-settings.php:931
+msgid "Toggle panel cart items Wrapper background color"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1102
+#, fuzzy
+msgid "Toggle panel Payment methods background color"
+msgstr "Panel de alternancia Métodos de pago color de fondo"
+
+#: admin/tf-options/options/tf-settings.php:1120
+#, fuzzy
+msgid "Toggle panel Payment methods description background color"
+msgstr "Panel de alternancia Métodos de pago descripción color de fondo"
+
+#: admin/tf-options/options/tf-settings.php:1129
+#, fuzzy
+msgid "Toggle panel Payment methods description text color"
+msgstr "Panel de alternancia Métodos de pago descripción texto color"
+
+#: admin/tf-options/options/tf-settings.php:1111
+#, fuzzy
+msgid "Toggle panel Payment methods text color"
+msgstr "Panel de alternancia Métodos de pago color de texto"
+
+#: admin/tf-options/options/tf-settings.php:1138
+#, fuzzy
+msgid "Toggle panel place order background color"
+msgstr "Alternar panel colocar orden color de fondo"
+
+#: admin/tf-options/options/tf-settings.php:1147
+#, fuzzy
+msgid "Toggle panel place order text color"
+msgstr "Alternar panel colocar orden ordenar color texto"
+
+#: admin/tf-options/options/tf-settings.php:970
+#, fuzzy
+msgid "Toggle panel pricing table background color"
+msgstr "Alternar el color de fondo de la tabla de precios del panel"
+
+#: admin/tf-options/options/tf-settings.php:978
+#, fuzzy
+msgid "Toggle panel pricing table text color"
+msgstr "Alternar el color del texto de la tabla de precios del panel"
+
+#: admin/tf-options/options/tf-settings.php:462
+msgid "Turn off main cart icon"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:240
+msgid "Tutorial"
+msgstr ""
+
+#: admin/tf-options/Ins_TF_Options.php:277
+msgid "Upcoming"
+msgstr "Próximos"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:350
+msgid "Upgrade now"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:342
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:144
+#: admin/tf-options/classes/Ins_TF_Settings.php:145
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: admin/tf-options/options/tf-settings.php:554
+#, fuzzy
+msgid "Upload your cart icon. Recommended size of an icon is 26x26px"
+msgstr ""
+"Sube el icono de tu carrito. El tamaño recomendado de un icono es de 26x26px"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:533
+msgid "Upsell (Pro)"
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:398
+#, fuzzy
+msgid "Upsell Heading"
+msgstr "Encabezado de ventas adicionales"
+
+#: admin/tf-options/options/tf-settings.php:441
+msgid ""
+"Utilize this shortcode in any location where you would like to display the "
+"mini cart."
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:222
+#: admin/tf-options/options/tf-settings.php:163
+msgid "Version 1"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:229
+#: admin/tf-options/options/tf-settings.php:167
+msgid "Version 2"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:237
+#: admin/tf-options/options/tf-settings.php:171
+msgid "Version 3"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:245
+#: admin/tf-options/options/tf-settings.php:175
+msgid "Version 4"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:221
+msgid "Version-1"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:228
+msgid "Version-2"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:236
+msgid "Version-3"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:244
+msgid "Version-4"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:322
+msgid "Video Tutorials"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:382
+#: admin/tf-options/classes/Ins_TF_Settings.php:446
+msgid "View all"
+msgstr ""
+
+#: includes/controller/App.php:280
+msgid "View Cart"
+msgstr "Ver Carrito"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:328
+msgid "Watch Video"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:325
+msgid "We allows you to get help in real-time, which can improve satisfaction."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:363
+msgid ""
+"We believe your feature request will make our website more user-friendly. "
+"Our dedicated team will review it and take it into consideration for future "
+"updates."
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:103
+msgid "Welcome to Instantio!"
+msgstr ""
+
+#: includes/controller/class-setup-wizard.php:107
+msgid "Welcome to instantio!"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:255
+msgid "What's New"
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:554
+msgid ""
+"With Instantio, you can also do Ajax based cross-sell by selling related or "
+"complementary products to a customer."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:618
+msgid ""
+"WooCommerce Direct Checkout is a solution to reduce the steps of the default "
+"Woocommerce checkout process. Customers can skip the cart page and directly "
+"checkout woocommerce (go directly to the checkout page). This helps "
+"improving cart abandonment of a website. Our Plugin Instantio offers such a "
+"solution."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WooCommerce direct checkout plugin with Side Cart, Popup Cart, Floating Cart "
+"& Popup Checkout function (+ 4 more WooCommerce Quick Checkout systems)."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:603
+msgid ""
+"WooCommerce One Page Checkout means converting the default multistep "
+"checkout for WooCommerce process into a single page Checkout. WordPress "
+"Plugins like Instantio offers such a solution."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:225
+#: admin/tf-options/options/tf-settings.php:282
+#: admin/tf-options/options/tf-settings.php:318
+#: admin/tf-options/options/tf-settings.php:365
+#: admin/tf-options/options/tf-settings.php:377
+#: admin/tf-options/options/tf-settings.php:447
+#: admin/tf-options/options/tf-settings.php:463
+#: admin/tf-options/options/tf-settings.php:1462
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:678
+msgid ""
+"Yes, Instantio allows you to edit WooCommerce checkout page to some extent. "
+"You can remove the cart page and make your customer directly go to the "
+"checkout page."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:708
+msgid ""
+"Yes, Instantio allows you to skip cart page WooCommerce and make your "
+"customer directly go to the checkout page."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:738
+msgid ""
+"Yes, Instantio converts the default multistep WooCommerce checkout process "
+"into WooCommerce Express checkout."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:723
+msgid ""
+"Yes, Instantio converts the default multistep WooCommerce checkout process "
+"into WooCommerce Quick checkout."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:693
+msgid ""
+"Yes, Instantio converts WooCommerce multistep checkout process into "
+"WooCommerce one click checkout."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:648
+msgid ""
+"Yes, Instantio is fully free which is available on WordPress.org. This free "
+"version will always be free. It also has a pro version with additional "
+"features which you can purchase from our official website."
+msgstr ""
+
+#: admin/tf-options/classes/Ins_TF_Settings.php:663
+msgid ""
+"Yes, we fully support both the free and pro version. Please feel free to "
+"post questions or bug reports through our website, but for timely support, "
+"we recommend purchasing Pro version."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1287
+#: admin/tf-options/options/tf-settings.php:1348
+msgid "You can able to change form field positions by Drag."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1320
+#: admin/tf-options/options/tf-settings.php:1370
+msgid "You can able to enable/disable this field required."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:1312
+#: admin/tf-options/options/tf-settings.php:1377
+msgid "You can able to enable/disable this field."
+msgstr ""
+
+#: admin/tf-options/options/tf-settings.php:375
+#, fuzzy
+#| msgid ""
+#| "You can disable it if you already have ajax \"add to cart\" function in "
+#| "your theme (To avoid conflict)."
+msgid ""
+"You can disable it if you already have ajax \"add to cart\" function in your "
+"theme (To avoid conflict)"
+msgstr ""
+"Puede deshabilitarlo si ya tiene la función ajax \"agregar al carrito\" en "
+"su tema (para evitar conflictos)."
+
+#: admin/tf-options/options/tf-settings.php:363
+#, fuzzy
+#| msgid ""
+#| "You can disable it if you already have quick view function in your theme "
+#| "(Applicable for Variable products)."
+msgid ""
+"You can disable it if you already have quick view function in your theme "
+"(Applicable for Variable products)"
+msgstr ""
+"Puede deshabilitarlo si ya tiene la función de vista rápida en su tema "
+"(Aplicable para productos variables)."
+
+#: admin/tf-options/options/tf-settings.php:425
+#, fuzzy
+msgid "You may be interested in…"
+msgstr "Te puede interesar..."
+
+#: includes/controller/App.php:166
+#, fuzzy
+#| msgid "Your Cart"
+msgid "Your cart "
+msgstr "Tu carrito"
+
+#: includes/layouts/layout-2.php:31 includes/layouts/layout-3.php:23
+#, fuzzy
+#| msgid "Your cart is empty"
+msgid "Your cart is empty."
+msgstr "Carrito esta vacío"
